@@ -1,0 +1,26 @@
+{
+  "name": "btree",
+  "version": "1.0.0",
+  "description": "Implementacao de arvores de busca B e B+",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "btree": "tsx ./b-tree/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filipeklinger/B-Trees.git"
+  },
+  "keywords": [
+    "btree"
+  ],
+  "author": "Filipe Klinger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/filipeklinger/B-Trees/issues"
+  },
+  "homepage": "https://github.com/filipeklinger/B-Trees#readme",
+  "devDependencies": {
+    "tsx": "^4.6.2"
+  }
+}
